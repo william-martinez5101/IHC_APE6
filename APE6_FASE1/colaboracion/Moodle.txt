@@ -1,0 +1,14 @@
+APE 6 - Fase 1 - Grupo 6
+Planificacion de la evaluacion de usabilidad de CafeU del APE 4.
+
+Integrantes:
+Abril Lara Emilio Alexander
+Cusme Velez Manuel Steven
+Gamboa Guaman Jonathan Alexis
+Lozada Marcial Pablo Damian
+Martinez Jimenez William Fernando
+
+Repositorio: https://github.com/william-martinez5101/IHC_APE6
+Informe: APE6_FASE1/docs/Informe_APE6_Fase1_Grupo6_CafeU.pdf
+
+Se entrega el plan con objeto, pregunta, dos metodos, participantes previstos, seis tareas con respuestas y criterios, metricas, consentimiento, cinco roles y validacion. El repositorio organiza los instrumentos y los aportes personales. La aplicacion con participantes externos corresponde a Fase 2.

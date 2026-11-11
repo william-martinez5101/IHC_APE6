@@ -1,0 +1,4 @@
+# Registros individuales y archivos locales
+*_privado.json
+registros_privados/
+__pycache__/
