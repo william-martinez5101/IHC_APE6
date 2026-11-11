@@ -1,0 +1,24 @@
+{
+  "objeto": "CaféU APE 4 integral del Grupo 6",
+  "repositorio": "https://github.com/idk-Damian/Ape4_IHC",
+  "commit": "822fbbf4c1d4011c399e4753d85e6f3d2167ff34",
+  "figma": "https://www.figma.com/design/HQZqFztrL0HeQ6E9h60LZm/Sin-t%C3%ADtulo?node-id=0-1",
+  "consulta": "2026-11-11",
+  "alcance_revision": "Recorridos y capturas; sin verificacion de navegacion en vivo",
+  "archivos": {
+    "index.html": "e1050551c205f182bf817c28033c8589ece8727cfe6227716c8feee23aab25b8",
+    "enlace_figma.txt": "6ac059a3da066d35dac07cda366edaa21350a2f61512e481dfacad38e3d750e9",
+    "README.md": "b6e0e52b7e1d22819431fe08211ddc1d7d0a23f24cca677b9bed89f543dec1a1",
+    "evidencias/C12_pedido-base.png": "dc1376ab9af62afc36a02c585876a9afee9b2f6ef8419e58ea0a2e72b43c2639",
+    "evidencias/C01_inicio-vacio.png": "63ce89a76fabe1df6accfe9605d2680971066e12dd0d74fecc5a51f127cd4cc8",
+    "evidencias/C06_busqueda-sin-resultados.png": "bf15588ee5027adc729dc774da016f80ad9bb2d5e792dad04c17666b7637a3a7",
+    "evidencias/C25_cu-104-base.png": "14745599571d006a62d0f77f3ae29f51178c827850adc04b85ea32ddaec15efa",
+    "evidencias/C17_sanduche-retirado-del-base.png": "b2f274767951b07d3e3b3af62308b13ddf3fdcff3c84cfd5cbf210244f716aa5",
+    "evidencias/C02_menu-completo.png": "da2c1e1fd91a450de1ea5c0eac9a17ec7ee236d6f7bf5450a94c93502fc6eca2",
+    "evidencias/C15_borrador-de-3-unidades.png": "d96e56cddd150b8e828fa131698ea26fcc1fcf4232f1ace2495d02958eff1e7e",
+    "evidencias/C16_confirmar-eliminacion.png": "53c85da2def7bf4312b1b371c1f1e6ae72b26c649c15f84f592bdfecaf089393",
+    "evidencias/C21_cambios-guardados.png": "ccc8e3b0bce15ea1d0109686daa777652090f36d2f56a159b924348c263fd878",
+    "evidencias/C28_nuevo-pedido-vacio.png": "9553a7ec84f530608c20fcb76aff9809b70b1ef1f62b133337441df8c5a77106",
+    "fuentes/Referencias_APE4.md": "04dc4d79be592c60425677dfb09a09cecedbef62ef940b500b2a5ff2e0b55167"
+  }
+}
