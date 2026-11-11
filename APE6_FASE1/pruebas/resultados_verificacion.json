@@ -1,0 +1,264 @@
+{
+  "version": "2.0",
+  "fecha": "2026-11-11",
+  "objeto": "CafeU APE 4 integral",
+  "tipo": "Verificacion documental y aritmetica sin participantes",
+  "referencia_commit": "822fbbf4c1d4011c399e4753d85e6f3d2167ff34",
+  "participantes_observados": 0,
+  "limite": "No se verifican transiciones en vivo de Figma ni tiempos humanos ni percepcion de usabilidad.",
+  "casos": [
+    {
+      "id": "P01",
+      "descripcion": "Seis tareas T1 a T6",
+      "conforme": true
+    },
+    {
+      "id": "P02",
+      "descripcion": "Todos los campos de planificacion presentes",
+      "conforme": true
+    },
+    {
+      "id": "P03",
+      "descripcion": "Maximo doble del objetivo",
+      "conforme": true
+    },
+    {
+      "id": "P04",
+      "descripcion": "Duracion maxima de tareas 810 segundos",
+      "conforme": true
+    },
+    {
+      "id": "P05",
+      "descripcion": "Consignas sin instrucciones de pulsaciones",
+      "conforme": true
+    },
+    {
+      "id": "A01",
+      "descripcion": "Base 1 cafe y 1 sanduche vale 4.25",
+      "conforme": true
+    },
+    {
+      "id": "A02",
+      "descripcion": "Modificado 2 cafes y 1 sanduche vale 5.75",
+      "conforme": true
+    },
+    {
+      "id": "A03",
+      "descripcion": "Diferencia de presupuesto 0.75",
+      "conforme": true
+    },
+    {
+      "id": "A04",
+      "descripcion": "Borrador de T5 vale 1.50",
+      "conforme": true
+    },
+    {
+      "id": "A05",
+      "descripcion": "T6 usa CU-104 y estado Recibido",
+      "conforme": true
+    },
+    {
+      "id": "P06",
+      "descripcion": "T4 T5 T6 comienzan en base independiente",
+      "conforme": true
+    },
+    {
+      "id": "F01",
+      "descripcion": "Referencia al repositorio propio de APE4",
+      "conforme": true
+    },
+    {
+      "id": "F02",
+      "descripcion": "Archivo propio de Figma",
+      "conforme": true
+    },
+    {
+      "id": "HASH14",
+      "descripcion": "Integridad index.html",
+      "conforme": true
+    },
+    {
+      "id": "HASH15",
+      "descripcion": "Integridad enlace_figma.txt",
+      "conforme": true
+    },
+    {
+      "id": "HASH16",
+      "descripcion": "Integridad README.md",
+      "conforme": true
+    },
+    {
+      "id": "HASH17",
+      "descripcion": "Integridad evidencias/C12_pedido-base.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH18",
+      "descripcion": "Integridad evidencias/C01_inicio-vacio.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH19",
+      "descripcion": "Integridad evidencias/C06_busqueda-sin-resultados.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH20",
+      "descripcion": "Integridad evidencias/C25_cu-104-base.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH21",
+      "descripcion": "Integridad evidencias/C17_sanduche-retirado-del-base.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH22",
+      "descripcion": "Integridad evidencias/C02_menu-completo.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH23",
+      "descripcion": "Integridad evidencias/C15_borrador-de-3-unidades.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH24",
+      "descripcion": "Integridad evidencias/C16_confirmar-eliminacion.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH25",
+      "descripcion": "Integridad evidencias/C21_cambios-guardados.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH26",
+      "descripcion": "Integridad evidencias/C28_nuevo-pedido-vacio.png",
+      "conforme": true
+    },
+    {
+      "id": "HASH27",
+      "descripcion": "Integridad fuentes/Referencias_APE4.md",
+      "conforme": true
+    },
+    {
+      "id": "F03",
+      "descripcion": "Diez capturas de respaldo",
+      "conforme": true
+    },
+    {
+      "id": "I01",
+      "descripcion": "Seis registros de tarea en formulario",
+      "conforme": true
+    },
+    {
+      "id": "I02",
+      "descripcion": "Diez grupos SUS en formulario",
+      "conforme": true
+    },
+    {
+      "id": "I03",
+      "descripcion": "Sin peticiones externas en el formulario",
+      "conforme": true
+    },
+    {
+      "id": "I04",
+      "descripcion": "SUS compartido en formulario",
+      "conforme": true
+    },
+    {
+      "id": "D01",
+      "descripcion": "Seis documentos Word finales",
+      "conforme": true
+    },
+    {
+      "id": "D02",
+      "descripcion": "Sin referencias al sistema anterior",
+      "conforme": true
+    },
+    {
+      "id": "D03",
+      "descripcion": "Sin marcadores de contenido por completar",
+      "conforme": true
+    },
+    {
+      "id": "D04",
+      "descripcion": "Formato APE con actividades y conclusiones",
+      "conforme": true
+    },
+    {
+      "id": "D05",
+      "descripcion": "Diez heuristicas en guia",
+      "conforme": true
+    },
+    {
+      "id": "D06",
+      "descripcion": "Cinco integrantes identificados",
+      "conforme": true
+    },
+    {
+      "id": "SUS00",
+      "descripcion": "Ejecucion del modulo SUS del formulario",
+      "conforme": true
+    },
+    {
+      "id": "SUS01",
+      "descripcion": "Extremo favorable",
+      "esperado": 100,
+      "obtenido": 100,
+      "conforme": true
+    },
+    {
+      "id": "SUS02",
+      "descripcion": "Extremo desfavorable",
+      "esperado": 0,
+      "obtenido": 0,
+      "conforme": true
+    },
+    {
+      "id": "SUS03",
+      "descripcion": "Patron de control",
+      "esperado": 75,
+      "obtenido": 75,
+      "conforme": true
+    },
+    {
+      "id": "SUS04",
+      "descripcion": "Diez respuestas neutras",
+      "esperado": 50,
+      "obtenido": 50,
+      "conforme": true
+    },
+    {
+      "id": "SUS05",
+      "descripcion": "Incompleto",
+      "esperado": null,
+      "obtenido": null,
+      "conforme": true
+    },
+    {
+      "id": "SUS06",
+      "descripcion": "Fuera de rango",
+      "esperado": null,
+      "obtenido": null,
+      "conforme": true
+    },
+    {
+      "id": "SUS07",
+      "descripcion": "Valor ausente",
+      "esperado": null,
+      "obtenido": null,
+      "conforme": true
+    },
+    {
+      "id": "SUS08",
+      "descripcion": "Respuesta fraccionaria",
+      "esperado": null,
+      "obtenido": null,
+      "conforme": true
+    }
+  ],
+  "conformes": 47,
+  "total": 47
+}
