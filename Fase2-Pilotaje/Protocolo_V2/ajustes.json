@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AP01",
+    "evidencia": "P1 T2, T4 y T5; P2 T5; P3 T4 y T5: seis relecturas literales.",
+    "v1": "Lectura oral literal de las seis situaciones; repetición permitida.",
+    "v2": "Leer con ritmo pausado y una pausa entre condiciones; ofrecer una tarjeta con el mismo texto literal, sin respuestas ni nombres de botones añadidos.",
+    "razon": "Reducir carga de memoria sin enseñar la solución ni cambiar el objetivo.",
+    "control": "Registrar si se usó tarjeta o relectura; mantener cronometraje desde el final de la lectura.",
+    "estado": "Incorporado al documento V2; sin nueva ronda de usuarios."
+  },
+  {
+    "id": "AP02",
+    "evidencia": "T4 requiere preparación independiente en las tres sesiones; P1 y P3 sugieren pausas o mayor separación.",
+    "v1": "Reinicio fuera de la vista y del tiempo de tarea.",
+    "v2": "Aplicar lista breve antes de T4, T5 y T6: 1 café, 1 sánduche, $4,25, sin envío; confirmar preparación antes de leer.",
+    "razon": "Separar una dificultad del usuario de una preparación incorrecta del escenario.",
+    "control": "Preparador y observador comprueban el estado; anotar excepción y detener el intento si no coincide.",
+    "estado": "Lista V2 documentada; conserva los estados de V1."
+  },
+  {
+    "id": "AP03",
+    "evidencia": "P1 T5 alcanza 120 s y no conserva el borrador solicitado; T4 solo tiene 1/3 éxitos sin ayuda.",
+    "v1": "Sí, Con ayuda y No; cierre en el máximo; observación libre.",
+    "v2": "Añadir al registro dos comprobaciones separadas: estado final alcanzado y cumplimiento del punto de detención/guardado. Mantener consignas y máximos.",
+    "razon": "Evitar clasificar una retirada de producto como éxito si el estado guardado es incorrecto.",
+    "control": "Contrastar el estado final con la respuesta de referencia sin corregir al participante.",
+    "estado": "Regla y campos V2 definidos; no recodifica V1."
+  },
+  {
+    "id": "AP04",
+    "evidencia": "Cuatro intentos reciben pista: P1 T2/T4/T5 y P3 T4; se registran 48, 112, 75 y 92 s.",
+    "v1": "Pista neutral a petición o tras 30 s sin avance; registrar el segundo.",
+    "v2": "Mantener una única pista textual y añadir motivo de aplicación (petición o intervalo sin avance) y momento del último avance.",
+    "razon": "El segundo total no basta para reconstruir por sí solo el motivo de la intervención.",
+    "control": "Leer la pista exactamente una vez; mantener Con ayuda cuando se completa después.",
+    "estado": "Instrumento V2 ampliado; no se infiere el motivo que V1 no registró."
+  },
+  {
+    "id": "AP05",
+    "evidencia": "En 14 filas H=No e I=0; el libro aclara que cero significa ausencia de pista.",
+    "v1": "Cero en segundo de pista cuando H=No.",
+    "v2": "Usar No aplica para el momento de pista si no hubo ayuda; mantener el tiempo de tarea como número.",
+    "razon": "Distinguir ausencia de intervención de una pista al inicio del intento.",
+    "control": "Normalizar solo la presentación futura; conservar H e I originales en V1.",
+    "estado": "Convención V2 documentada."
+  },
+  {
+    "id": "AP06",
+    "evidencia": "T1, T2, T4, T5 y T6 tienen medianas de intentos superiores al objetivo; ningún intento excede el máximo.",
+    "v1": "Metas por tarea y máximos fijados en Fase 1.",
+    "v2": "Conservar tiempos objetivo y máximos para mantener comparabilidad; informar por separado intentos totales, éxitos sin ayuda y tiempos de los éxitos.",
+    "razon": "El pilotaje detecta fricción; elevar metas para convertir resultados en cumplimiento ocultaría esa señal.",
+    "control": "Si una ronda futura justifica modificar una meta, versionar el cambio y analizar las rondas por separado.",
+    "estado": "Criterio de análisis V2 definido."
+  }
+]
