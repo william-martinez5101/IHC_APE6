@@ -1,0 +1,84 @@
+[
+  {
+    "id": "HP01",
+    "titulo": "Recuperación del catálogo tras una búsqueda sin coincidencias",
+    "tareas": "T2",
+    "participantes": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "evidencia": "Los tres prueban un filtro con la consulta todavía activa antes de limpiar el texto. P1 completa con pista; P2 y P3 recuperan el catálogo de forma autónoma.",
+    "cita": "Pensé que al tocar Todo aparecerían otra vez.",
+    "cita_origen": "P1 T2",
+    "heuristicas": "H7, H9",
+    "impacto": "Tres errores no críticos; mediana 62 s frente a objetivo 45 s.",
+    "propuesta": "Ofrecer limpieza de consulta y retorno al catálogo desde el estado sin resultados.",
+    "limite": "El cambio de filtro puede funcionar según diseño; el hallazgo es la dificultad para comprender y recuperar el estado."
+  },
+  {
+    "id": "HP02",
+    "titulo": "Ambigüedad sobre la conservación de cambios al volver",
+    "tareas": "T4",
+    "participantes": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "evidencia": "Los tres intentan volver antes de guardar. P1 y P3 necesitan pista; P2 se corrige sin ayuda.",
+    "cita": "No sabía si al volver se conservaba el cambio.",
+    "cita_origen": "P3 T4",
+    "heuristicas": "H1, H10",
+    "impacto": "1/3 éxitos sin ayuda; tres errores no críticos; mediana 136 s frente a 90 s.",
+    "propuesta": "Indicar de forma persistente los cambios pendientes y el efecto de guardar.",
+    "limite": "Los intentos se completaron dentro de 180 s; la viabilidad del protocolo y la fricción de la interfaz son conclusiones diferentes."
+  },
+  {
+    "id": "HP03",
+    "titulo": "Diferencia entre borrar un producto y conservar un borrador",
+    "tareas": "T5",
+    "participantes": [
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "evidencia": "Los tres requieren relectura literal. P1 guarda el cambio y no alcanza el estado de borrador antes de 120 s. P2 y P3 se detienen sin guardar.",
+    "cita": "Lo guardé porque pensé que así terminaba.",
+    "cita_origen": "P1 T5",
+    "heuristicas": "H3, H10",
+    "impacto": "Un error crítico y un fracaso; 2/3 éxitos sin ayuda; mediana 93 s frente a 60 s.",
+    "propuesta": "Diferenciar visualmente borrador y pedido guardado. En el protocolo, separar la verificación del contenido y la del punto de detención.",
+    "limite": "La relectura no demuestra por sí sola que la consigna sea inválida. Se conserva el fracaso registrado y no se atribuye a una causa única."
+  },
+  {
+    "id": "HP04",
+    "titulo": "Cambios accidentales de cantidad",
+    "tareas": "T3 y T5",
+    "participantes": [
+      "P1",
+      "P3"
+    ],
+    "evidencia": "P1 añade un segundo café en T3 y lo retira. P3 reduce el café a cero en T5 y lo repone antes de continuar.",
+    "cita": "Ahora queda solo el café y todavía no guardo.",
+    "cita_origen": "P3 T5",
+    "heuristicas": "H5",
+    "impacto": "Dos eventos recuperables en dos participantes; ambos intentos terminan sin pista.",
+    "propuesta": "Destacar la cantidad resultante y su subtotal después de cada variación.",
+    "limite": "La frase corresponde al estado final, no al instante del error; el evento se respalda en la observación de acciones."
+  },
+  {
+    "id": "HP05",
+    "titulo": "Localización del estado de recepción",
+    "tareas": "T6",
+    "participantes": [
+      "P1"
+    ],
+    "evidencia": "P1 abre una vez el detalle buscando el estado y vuelve al comprobante. Explica correctamente que Recibido no significa listo.",
+    "cita": "La cafetería ya lo recibió, pero aún no está listo.",
+    "cita_origen": "P1 T6",
+    "heuristicas": "H1",
+    "impacto": "Un error no crítico registrado; T6 alcanza 3/3 éxitos sin ayuda y mediana 102 s.",
+    "propuesta": "Mantener el estado de recepción visible junto al número de pedido.",
+    "limite": "No se observó una interpretación errónea del estado en ese registro. Se trata de una dificultad de localización y no de comprensión demostrada."
+  }
+]
