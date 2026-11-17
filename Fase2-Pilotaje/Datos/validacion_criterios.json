@@ -1,0 +1,38 @@
+[
+  {
+    "id": "CV1",
+    "dimension": "Comprensión",
+    "evidencia": "Sin reformulación de consignas en P1–P3. Seis relecturas literales, permitidas por el plan.",
+    "resultado": "Cumple"
+  },
+  {
+    "id": "CV2",
+    "dimension": "Factibilidad",
+    "evidencia": "Completadas dentro del máximo: T1 3/3, T2 3/3, T3 3/3, T4 3/3, T5 2/3, T6 3/3. Incluye ayuda cuando la hubo.",
+    "resultado": "Cumple"
+  },
+  {
+    "id": "CV3",
+    "dimension": "Registro",
+    "evidencia": "18 filas con tiempos, resultados y errores; 30 respuestas SUS válidas; observaciones y motivos consignados.",
+    "resultado": "Cumple"
+  },
+  {
+    "id": "CV4",
+    "dimension": "Estabilidad y reinicio",
+    "evidencia": "Sin incidencias técnicas declaradas; T4–T6 tienen preparación independiente documentada en los tres registros.",
+    "resultado": "Cumple según registros"
+  },
+  {
+    "id": "CV5",
+    "dimension": "Duración",
+    "evidencia": "Sesiones de 22, 17 y 20 min; todas dentro de 25 min.",
+    "resultado": "Cumple"
+  },
+  {
+    "id": "CV6",
+    "dimension": "Ética",
+    "evidencia": "Tres perfiles verificados, consentimiento y publicación anónima declarados; sin retiros ni identificadores de participantes en el conjunto público.",
+    "resultado": "Cumple según registros"
+  }
+]

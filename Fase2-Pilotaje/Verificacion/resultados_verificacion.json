@@ -1,0 +1,18 @@
+{
+  "participantes": 3,
+  "intentos": 18,
+  "exitos_sin_ayuda": 14,
+  "con_ayuda": 3,
+  "no_completadas": 1,
+  "tasa_exito": 0.7777777777777778,
+  "errores_criticos": 1,
+  "errores_no_criticos": 9,
+  "sus": [
+    65.0,
+    90.0,
+    72.5
+  ],
+  "sus_medio": 75.83333333333333,
+  "evaluaciones_heuristicas": 50,
+  "resultado": "Comprobaciones aritméticas y de estructura satisfactorias"
+}
