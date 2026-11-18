@@ -1,0 +1,14 @@
+{
+  "resultado": "Comprobaciones satisfactorias",
+  "ronda": "F3",
+  "intentos": 21,
+  "autonomos": 17,
+  "SUS": [
+    62.5,
+    90.0,
+    72.5
+  ],
+  "SUS_medio": 75,
+  "heuristicas": 60,
+  "consensos": 10
+}

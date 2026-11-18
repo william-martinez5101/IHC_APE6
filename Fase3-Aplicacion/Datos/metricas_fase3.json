@@ -1,0 +1,150 @@
+{
+  "ronda": "F3",
+  "por_tarea": [
+    {
+      "tarea": "T1",
+      "actividad": "Consulta de productos y precios",
+      "intentos_validos": 3,
+      "autonomos": 3,
+      "tasa_autonoma_pct": 100.0,
+      "mediana_s": 27,
+      "mediana_autonomos_s": 27,
+      "meta_s": 30,
+      "maximo_s": 60,
+      "errores_criticos": 0,
+      "errores_no_criticos": 0,
+      "participantes_con_ayuda": [],
+      "participantes_no_completan": [],
+      "exitos_dentro_meta": 2
+    },
+    {
+      "tarea": "T2",
+      "actividad": "Búsqueda y recuperación del catálogo",
+      "intentos_validos": 3,
+      "autonomos": 1,
+      "tasa_autonoma_pct": 33.333333333333336,
+      "mediana_s": 64,
+      "mediana_autonomos_s": 39,
+      "meta_s": 45,
+      "maximo_s": 90,
+      "errores_criticos": 0,
+      "errores_no_criticos": 3,
+      "participantes_con_ayuda": [
+        "P1",
+        "P3"
+      ],
+      "participantes_no_completan": [],
+      "exitos_dentro_meta": 1
+    },
+    {
+      "tarea": "T3",
+      "actividad": "Preparación del pedido base",
+      "intentos_validos": 3,
+      "autonomos": 3,
+      "tasa_autonoma_pct": 100.0,
+      "mediana_s": 83,
+      "mediana_autonomos_s": 83,
+      "meta_s": 90,
+      "maximo_s": 180,
+      "errores_criticos": 0,
+      "errores_no_criticos": 1,
+      "participantes_con_ayuda": [],
+      "participantes_no_completan": [],
+      "exitos_dentro_meta": 2
+    },
+    {
+      "tarea": "T4",
+      "actividad": "Edición de cantidades y guardado",
+      "intentos_validos": 3,
+      "autonomos": 2,
+      "tasa_autonoma_pct": 66.66666666666667,
+      "mediana_s": 112,
+      "mediana_autonomos_s": 91.5,
+      "meta_s": 90,
+      "maximo_s": 180,
+      "errores_criticos": 0,
+      "errores_no_criticos": 2,
+      "participantes_con_ayuda": [
+        "P1"
+      ],
+      "participantes_no_completan": [],
+      "exitos_dentro_meta": 1
+    },
+    {
+      "tarea": "T5",
+      "actividad": "Eliminación y control del borrador",
+      "intentos_validos": 3,
+      "autonomos": 2,
+      "tasa_autonoma_pct": 66.66666666666667,
+      "mediana_s": 77,
+      "mediana_autonomos_s": 60.0,
+      "meta_s": 60,
+      "maximo_s": 120,
+      "errores_criticos": 1,
+      "errores_no_criticos": 1,
+      "participantes_con_ayuda": [],
+      "participantes_no_completan": [
+        "P1"
+      ],
+      "exitos_dentro_meta": 1
+    },
+    {
+      "tarea": "T6",
+      "actividad": "Confirmación y comienzo de otro pedido",
+      "intentos_validos": 3,
+      "autonomos": 3,
+      "tasa_autonoma_pct": 100.0,
+      "mediana_s": 94,
+      "mediana_autonomos_s": 94,
+      "meta_s": 90,
+      "maximo_s": 180,
+      "errores_criticos": 0,
+      "errores_no_criticos": 2,
+      "participantes_con_ayuda": [],
+      "participantes_no_completan": [],
+      "exitos_dentro_meta": 1
+    },
+    {
+      "tarea": "T7",
+      "actividad": "Cancelar una eliminación y conservar el pedido",
+      "intentos_validos": 3,
+      "autonomos": 3,
+      "tasa_autonoma_pct": 100.0,
+      "mediana_s": 41,
+      "mediana_autonomos_s": 41,
+      "meta_s": 45,
+      "maximo_s": 90,
+      "errores_criticos": 0,
+      "errores_no_criticos": 1,
+      "participantes_con_ayuda": [],
+      "participantes_no_completan": [],
+      "exitos_dentro_meta": 2
+    }
+  ],
+  "totales": {
+    "intentos": 21,
+    "autonomos": 17,
+    "con_ayuda": 3,
+    "no_completadas": 1,
+    "errores_criticos": 1,
+    "errores_no_criticos": 10,
+    "SUS": [
+      62.5,
+      90.0,
+      72.5
+    ],
+    "SUS_medio": 75.0,
+    "registros_heuristicos": 60,
+    "problemas_heuristicos": 56,
+    "hallazgos": 10,
+    "triangulacion": {
+      "Confirmado por ambos métodos": 8,
+      "Solo heurística": 2
+    },
+    "prioridades": {
+      "P1": 3,
+      "P2": 4,
+      "P3": 3
+    }
+  }
+}
