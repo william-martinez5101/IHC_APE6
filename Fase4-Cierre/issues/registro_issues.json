@@ -1,0 +1,72 @@
+[
+  {
+    "hallazgo": "H-01",
+    "title": "[APE6 F4][P1] H-01: Recuperación del catálogo tras una búsqueda sin resultados",
+    "body_file": "Fase4-Cierre/issues/H-01.md",
+    "url": null,
+    "estado": "no_creado_403"
+  },
+  {
+    "hallazgo": "H-02",
+    "title": "[APE6 F4][P1] H-02: Cambios pendientes y conservación del pedido al volver",
+    "body_file": "Fase4-Cierre/issues/H-02.md",
+    "url": null,
+    "estado": "no_creado_403"
+  },
+  {
+    "hallazgo": "H-03",
+    "title": "[APE6 F4][P1] H-03: Separación entre borrador, guardado y cancelación de cambios",
+    "body_file": "Fase4-Cierre/issues/H-03.md",
+    "url": null,
+    "estado": "no_creado_403"
+  },
+  {
+    "hallazgo": "H-04",
+    "title": "[APE6 F4][P2] H-04: Cambios involuntarios en la cantidad de productos",
+    "body_file": "Fase4-Cierre/issues/H-04.md",
+    "url": null,
+    "estado": "no_creado_403"
+  },
+  {
+    "hallazgo": "H-05",
+    "title": "[APE6 F4][P3] H-05: Localización del estado de recepción del pedido",
+    "body_file": "Fase4-Cierre/issues/H-05.md",
+    "url": null,
+    "estado": "no_creado_403"
+  },
+  {
+    "hallazgo": "H-06",
+    "title": "[APE6 F4][P2] H-06: Alcance poco explícito de Cancelar en la retirada de productos",
+    "body_file": "Fase4-Cierre/issues/H-06.md",
+    "url": null,
+    "estado": "no_creado_403"
+  },
+  {
+    "hallazgo": "H-07",
+    "title": "[APE6 F4][P2] H-07: Mensaje de búsqueda vacía sin orientación para recuperarse",
+    "body_file": "Fase4-Cierre/issues/H-07.md",
+    "url": null,
+    "estado": "no_creado_403"
+  },
+  {
+    "hallazgo": "H-08",
+    "title": "[APE6 F4][P2] H-08: Comprobante anterior y nueva selección poco diferenciados",
+    "body_file": "Fase4-Cierre/issues/H-08.md",
+    "url": null,
+    "estado": "no_creado_403"
+  },
+  {
+    "hallazgo": "H-09",
+    "title": "[APE6 F4][P3] H-09: Etiquetas de salida inconsistentes entre edición y confirmación",
+    "body_file": "Fase4-Cierre/issues/H-09.md",
+    "url": null,
+    "estado": "no_creado_403"
+  },
+  {
+    "hallazgo": "H-10",
+    "title": "[APE6 F4][P3] H-10: Falta de ayuda contextual sobre editar y guardar",
+    "body_file": "Fase4-Cierre/issues/H-10.md",
+    "url": null,
+    "estado": "no_creado_403"
+  }
+]
