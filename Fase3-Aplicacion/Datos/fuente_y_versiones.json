@@ -1,0 +1,20 @@
+{
+  "archivo": "CafeU_Fases3_4_Completado.xlsx",
+  "sha256": "f2fc0c95a71607b222391a45981acfec4fb944d529a63643ea6c9b81e642d71a",
+  "fecha_sesiones": "2026-11-18",
+  "hojas_recibidas": [
+    "Resumen",
+    "Sesiones",
+    "Intentos",
+    "SUS",
+    "Heuristicas",
+    "Consenso",
+    "Tareas"
+  ],
+  "extraccion": "Se conservaron textos, mediciones y respuestas; fechas Excel convertidas a ISO 8601.",
+  "repository": "https://github.com/william-martinez5101/IHC_APE6",
+  "baseline_commit": "548c68880394ee727c271a117ea0cf39e9e61dc1",
+  "nota_version": "Se conserva CaféU F3 v3.0 como etiqueta declarada. No se atribuye un rediseño al cambio de protocolo.",
+  "normalizacion": "Fechas Excel a ISO 8601; sin modificación de mediciones, citas o valoraciones.",
+  "reserva": "El Excel original se conserva en el paquete privado, no dentro de la copia para GitHub."
+}
